@@ -9,6 +9,8 @@ namespace Horizons
     public class Program
     {
         public static void Main(string[] args)
+
+        //Test commit
         {
             var builder = WebApplication.CreateBuilder(args);
 
